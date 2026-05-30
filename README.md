@@ -40,8 +40,8 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
+- [Link to notebook 1](https://github.com/IsaiahWHayes/startup-success-prediction)
+- [Link to notebook 2](https://github.com/IsaiahWHayes/startup-success-prediction)
 - [Link to notebook 3]()
 
 
