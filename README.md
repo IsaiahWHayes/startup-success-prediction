@@ -49,4 +49,4 @@ What suggestions do you have for next steps?
 For questions and additional information regarding this project, please contact: Isaiah Hayes
 **LinkedIn**: https://www.linkedin.com/in/isaiahwhayes
 **Kaggle Dataset**: https://www.kaggle.com/datasets/dhrubangtalukdar/startup-funding-and-outcome-dataset?resource=download
-**Forbes Resource**: https://www.forbes.com/councils/forbescoachescouncil/2024/09/10/90-of-startups-fail-how-to-secure-your-place-in-the-10/ # startup-success-prediction
+**Forbes Resource**: https://www.forbes.com/councils/forbescoachescouncil/2024/09/10/90-of-startups-fail-how-to-secure-your-place-in-the-10/
